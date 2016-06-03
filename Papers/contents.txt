@@ -1,0 +1,1 @@
+00990503.pdf: Only position (i.e. translation) recovery; doesn't care about rotation
